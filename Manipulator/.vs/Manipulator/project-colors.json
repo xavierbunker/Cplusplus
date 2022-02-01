@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1d60a58-aafa-441e-8add-1bf24789a66a": {
+      "ProjectGuid": "b1d60a58-aafa-441e-8add-1bf24789a66a",
+      "DisplayName": "Manipulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
