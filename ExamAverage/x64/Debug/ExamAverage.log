@@ -1,7 +1,0 @@
-﻿  ExamAverage.cpp
-C:\Users\xavie\Documents\Code\ExamAverage\ExamAverage.cpp(14,12): warning C4101: 'test1': unreferenced local variable
-C:\Users\xavie\Documents\Code\ExamAverage\ExamAverage.cpp(14,33): warning C4101: 'test4': unreferenced local variable
-C:\Users\xavie\Documents\Code\ExamAverage\ExamAverage.cpp(14,26): warning C4101: 'test3': unreferenced local variable
-C:\Users\xavie\Documents\Code\ExamAverage\ExamAverage.cpp(14,40): warning C4101: 'test5': unreferenced local variable
-C:\Users\xavie\Documents\Code\ExamAverage\ExamAverage.cpp(14,19): warning C4101: 'test2': unreferenced local variable
-  ExamAverage.vcxproj -> C:\Users\xavie\Documents\Code\ExamAverage\x64\Debug\ExamAverage.exe
