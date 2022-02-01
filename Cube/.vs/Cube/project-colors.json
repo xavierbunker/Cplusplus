@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6ff0ce7-e975-4f33-8b48-631a215c0c7b": {
+      "ProjectGuid": "d6ff0ce7-e975-4f33-8b48-631a215c0c7b",
+      "DisplayName": "Cube",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
