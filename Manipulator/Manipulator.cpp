@@ -48,7 +48,7 @@ int main()
 	cout << fixed << showpoint << setprecision(1);
 
 
-	cout << setw(15) << left << "Name:" << setw(5) << right <<"Score:" << endl;
+	cout << "Name:" << setw(5) << right <<"Score:" << endl;
 	cout << setw(15) << left <<name1 << setw(5) << right << score1 << endl;
 	cout << setw(15) << left << name2 << setw(5) << right << score2;
 
