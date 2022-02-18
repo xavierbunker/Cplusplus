@@ -26,8 +26,9 @@ using namespace std;
 int main()
 {
 	// Variable declarations
-	string name, major;
-	int year;
+	string name, major, fclass;
+	int year, gyear;
+	double gpa;
 
 	// Program title and description
 	cout << "CIN VS GETLINE PRACTICE" << endl;
@@ -37,9 +38,28 @@ int main()
 	cout << "Enter your full name: ";
 	getline(cin, name);
 
+	cout << "Enter your favorite class: ";
+	getline(cin, fclass);
+
 	cout << "Enter the year you started college: ";
 	cin >> year;	// cin pushes a newline character into the input stream,
 					// which would be collected by the getline below
+
+	cin.ignore();	// this will ignore the newline character pushed out by
+					// the cin above; we ONLY use cin.ignore when we have a
+					// cin directly above a getline
+
+	cout << "Enter your GPA: ";
+	cin >> gpa;	// cin pushes a newline character into the input stream,
+					// which would be collected by the getline below
+
+	cin.ignore();	// this will ignore the newline character pushed out by
+					// the cin above; we ONLY use cin.ignore when we have a
+					// cin directly above a getline
+
+	cout << "Enter the Anticipated graduation year: ";
+	cin >> gyear;	// cin pushes a newline character into the input stream,
+					// which would be collected by the getline below								
 
 	cin.ignore();	// this will ignore the newline character pushed out by
 					// the cin above; we ONLY use cin.ignore when we have a
@@ -65,9 +85,9 @@ int main()
 	cout << "Name: " << name << endl;
 	cout << "Major: " << major << endl;
 	cout << "Year began college: " << year << endl;
-	cout << "Anticipated graduation year: " << endl; // insert variable
-	cout << "GPA: " << endl; // insert variable
-	cout << "Favorite class: " << endl; // insert variable
+	cout << "Anticipated graduation year: " << gyear << endl; // insert variable
+	cout << "GPA: " << gpa << endl; // insert variable
+	cout << "Favorite class: " << fclass << endl; // insert variable
 
 	return 0;
 }

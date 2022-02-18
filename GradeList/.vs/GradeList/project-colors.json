@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2b90653-381d-41b1-a9a1-2f70b5837d05": {
+      "ProjectGuid": "b2b90653-381d-41b1-a9a1-2f70b5837d05",
+      "DisplayName": "GradeList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

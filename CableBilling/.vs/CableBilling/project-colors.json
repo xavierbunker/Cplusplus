@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a66ecf49-a2bd-4547-b9d1-00b39c32d25a": {
+      "ProjectGuid": "a66ecf49-a2bd-4547-b9d1-00b39c32d25a",
+      "DisplayName": "CableBilling",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

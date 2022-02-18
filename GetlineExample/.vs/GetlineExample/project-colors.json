@@ -5,6 +5,11 @@
       "ProjectGuid": "d61f1f24-e34b-4172-8b42-fa79d4a20a86",
       "DisplayName": "GetlineExample",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

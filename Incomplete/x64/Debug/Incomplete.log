@@ -1,0 +1,3 @@
+﻿  Incomplete.cpp
+C:\Users\xavie\Documents\GitHub\Cplusplus\Incomplete\Incomplete.cpp(25,9): warning C4101: 'hoursWorked': unreferenced local variable
+  Incomplete.vcxproj -> C:\Users\xavie\Documents\GitHub\Cplusplus\Incomplete\x64\Debug\Incomplete.exe
