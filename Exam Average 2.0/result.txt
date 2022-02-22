@@ -1,0 +1,9 @@
+Exam Average Program
+
+To Find Average of 3 Test Score
+
+Name: Xavier Bunker
+Test 1: 100
+Test 2: 60
+Test 3: 89
+Average Test Score: 83

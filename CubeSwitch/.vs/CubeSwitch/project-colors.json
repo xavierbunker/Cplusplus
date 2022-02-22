@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "020bec3b-5d05-40f7-a9a8-15f3c5975e64": {
+      "ProjectGuid": "020bec3b-5d05-40f7-a9a8-15f3c5975e64",
+      "DisplayName": "CubeSwitch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
