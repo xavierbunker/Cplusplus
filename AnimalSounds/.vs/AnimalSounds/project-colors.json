@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8d46aa3-5d81-45c3-9f4e-5ef1e5da1f77": {
+      "ProjectGuid": "e8d46aa3-5d81-45c3-9f4e-5ef1e5da1f77",
+      "DisplayName": "AnimalSounds",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

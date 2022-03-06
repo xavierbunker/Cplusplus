@@ -1,0 +1,21 @@
+﻿  AnimalSounds.cpp
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(34,5): error C2450: a switch expression of type 'double' is not valid
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(32,13): message : Integral expression required
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(37,18): error C2131: expression did not evaluate to a constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(37,18): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(37,18): message : see usage of 'choice'
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(42,18): error C2131: expression did not evaluate to a constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(42,18): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(42,18): message : see usage of 'choice'
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(48,8): error C2146: syntax error: missing ':' before identifier 'outData'
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(47,19): error C2131: expression did not evaluate to a constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(47,19): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(47,19): message : see usage of 'choice'
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(52,19): error C2131: expression did not evaluate to a constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(52,12): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(52,12): message : see usage of 'choice'
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(37,1): error C2051: case expression not constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(42,1): error C2051: case expression not constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(47,1): error C2051: case expression not constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(52,1): error C2051: case expression not constant
+C:\Users\xavie\Documents\GitHub\Cplusplus\AnimalSounds\AnimalSounds.cpp(55,5): warning C4060: switch statement contains no 'case' or 'default' labels

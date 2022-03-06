@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29003fba-bca0-4889-9128-856b2040bb7e": {
+      "ProjectGuid": "29003fba-bca0-4889-9128-856b2040bb7e",
+      "DisplayName": "Rock, Paper, And Scissors",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

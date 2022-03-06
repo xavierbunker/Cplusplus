@@ -1,0 +1,8 @@
+﻿  Rock, Paper, And Scissors.cpp
+C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\Rock, Paper, And Scissors.cpp(15,24): warning C4101: 'scissors1': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\Rock, Paper, And Scissors.cpp(15,9): warning C4101: 'rock1': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\Rock, Paper, And Scissors.cpp(14,22): warning C4101: 'scissors': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\Rock, Paper, And Scissors.cpp(14,15): warning C4101: 'paper': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\Rock, Paper, And Scissors.cpp(14,9): warning C4101: 'rock': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\Rock, Paper, And Scissors.cpp(15,16): warning C4101: 'paper1': unreferenced local variable
+  Rock, Paper, And Scissors.vcxproj -> C:\Users\xavie\Documents\GitHub\Cplusplus\Rock, Paper, And Scissors\x64\Debug\Rock, Paper, And Scissors.exe
