@@ -1,0 +1,6 @@
+Xavier Crum
+90 100 98
+Alicia Crum
+80 90 97
+Daniel Crum
+100 80 60
