@@ -1,0 +1,3 @@
+﻿  WindChill.cpp
+C:\Users\xavie\Documents\GitHub\Cplusplus\WindChill\WindChill.cpp(42,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  WindChill.vcxproj -> C:\Users\xavie\Documents\GitHub\Cplusplus\WindChill\x64\Debug\WindChill.exe

@@ -1,0 +1,3 @@
+﻿  GuessingGames.cpp
+C:\Users\xavie\Documents\GitHub\Cplusplus\GuessingGames\GuessingGames.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessingGames.vcxproj -> C:\Users\xavie\Documents\GitHub\Cplusplus\GuessingGames\x64\Debug\GuessingGames.exe

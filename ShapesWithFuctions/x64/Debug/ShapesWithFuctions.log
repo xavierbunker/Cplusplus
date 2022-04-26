@@ -1,0 +1,10 @@
+﻿  ShapesWithFuctions.cpp
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(23,12): warning C4101: 'height': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(22,12): warning C4101: 'radius': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(23,26): warning C4101: 'trigArea': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(21,27): warning C4101: 'rectArea': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(21,20): warning C4101: 'width': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(23,20): warning C4101: 'base': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(21,12): warning C4101: 'length': unreferenced local variable
+C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\ShapesWithFuctions.cpp(22,20): warning C4101: 'circleArea': unreferenced local variable
+  ShapesWithFuctions.vcxproj -> C:\Users\xavie\Documents\GitHub\Cplusplus\ShapesWithFuctions\x64\Debug\ShapesWithFuctions.exe
