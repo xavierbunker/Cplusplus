@@ -22,7 +22,7 @@ int main()
 void WindChill()
 {
     // Varablies 
-    int W;
+    double W;
     int V;
     int T;
     double x;
