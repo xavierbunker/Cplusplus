@@ -1,0 +1,40 @@
+Name: Introduction to Networking
+Name: Discreet Math
+Name: Geology
+Name: Programming 1
+Name: Programming 2
+Name: Pre-Calculus
+Name: Calculus 1
+Name: Calculus 2
+Name: Calculus 3
+Name: Theatre
+Name: Wirless And Cellular Security
+Name: Survey of Operating Systems
+Name: Web and Moblie Technologies
+Name: Network Forensicis and Incident Reponse
+Name: Technical Writing
+Name: Business and Professional Speaking
+Name: Orientation
+Name: Data Structures
+Name: Computer Hardware and Architecture
+Name: Survey Of Operating Systems
+Name: Survey Of Operating Systems
+Name: Computer Hardware and Architecture
+Name: Data Structures
+Name: Orientation
+Name: Business and Professional Speaking
+Name: Technical Writing
+Name: Network Forensicis and Incident Reponse
+Name: Web and Moblie Technologies
+Name: Survey of Operating Systems
+Name: Wirless And Cellular Security
+Name: Theatre
+Name: Calculus 3
+Name: Calculus 2
+Name: Calculus 1
+Name: Pre-Calculus
+Name: Programming 2
+Name: Programming 1
+Name: Geology
+Name: Discreet Math
+Name: Introduction to Networking

@@ -1,0 +1,27 @@
+﻿  Project 4.cpp
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(76,48): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(76,67): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(77,48): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(78,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(79,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(80,50): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(81,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(82,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(83,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(84,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(87,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(87,68): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(88,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(89,55): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(90,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(91,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(92,50): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(93,50): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(94,48): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(95,48): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(72,11): warning C4101: 'tempa': unreferenced local variable
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(108,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(110,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(126,20): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\Project 4.cpp(128,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project 4.vcxproj -> C:\Users\xavie\OneDrive\Documents\Programming 2\Project 4\x64\Debug\Project 4.exe

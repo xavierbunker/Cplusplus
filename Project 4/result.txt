@@ -1,0 +1,22 @@
+Name:              Excalibur Bunker
+Major:             N/A
+Advisor Name:      Alicia
+GPA:               3.99
+T-Number:          T-134908
+Graduating Year:   2024
+Credit Hours:      20
+Hard Class:        Math
+Easy Class:        English
+
+Name:              Avery Bunker
+Major:             I.T.
+Advisor Name:      Ambra
+GPA:               2
+T-Number:          t-678905
+Graduating Year:   2022
+Credit Hours:      150
+Hard Class:        English
+Easy Class:        Programming
+
+Excalibur Bunker has the highest GPA with 3.99
+Avery Bunker has the highest credit hours with 150

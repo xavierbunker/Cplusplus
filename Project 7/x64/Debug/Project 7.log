@@ -1,0 +1,6 @@
+﻿  Project 7.cpp
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 7\Project 7.cpp(128,40): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 7\Project 7.cpp(161,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 7\Project 7.cpp(162,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xavie\OneDrive\Documents\Programming 2\Project 7\Project 7.cpp(176,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project 7.vcxproj -> C:\Users\xavie\OneDrive\Documents\Programming 2\Project 7\x64\Debug\Project 7.exe

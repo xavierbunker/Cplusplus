@@ -1,0 +1,10 @@
+Coke
+1.99
+Sprite
+1.99
+Root Beer
+1.99
+Apple Juice
+2.30
+Grape Juice
+2.30

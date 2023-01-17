@@ -1,0 +1,42 @@
+Name:              Xavier Bunker
+Major:             I.T.
+Advisor Name:      Tommy
+GPA:               3.99
+T-Number:          T-123456
+Graduating Year:   2025
+Credit Hours:      9
+Hard Class:        Programmng
+Easy Class:        Geogolgy
+
+Name:              Excalibur Bunker
+Major:             N/A
+Advisor Name:      Alicia
+GPA:               4
+T-Number:          T-134908
+Graduating Year:   2024
+Credit Hours:      100
+Hard Class:        Math
+Easy Class:        English
+
+Name:              Xavier Bunker
+Major:             I.T.
+Advisor Name:      Tommy
+GPA:               1.99
+T-Number:          T-123456
+Graduating Year:   2025
+Credit Hours:      70
+Hard Class:        Programmng
+Easy Class:        Geogolgy
+
+Name:              Excalibur Bunker
+Major:             N/A
+Advisor Name:      Alicia
+GPA:               2
+T-Number:          T-134908
+Graduating Year:   2024
+Credit Hours:      50
+Hard Class:        Math
+Easy Class:        English
+
+Excalibur Bunker has the highest GPA with 4
+Excalibur Bunker has the highest credit hours with 100
